@@ -1,4 +1,3 @@
-           
 com: 
- ming:  
-   config: ming-prod
+  ming:  
+    config:  ming-prod
