@@ -1,4 +1,3 @@
-           
 com: 
- ming: 
-   defaultUser: ming-dev
+  ming: 
+    defaultUser: ming-dev
