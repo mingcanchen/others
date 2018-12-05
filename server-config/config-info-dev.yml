@@ -1,5 +1,4 @@
            
-cn: 
- springcloud: 
-          book: 
-            config: I am the git configuration file from dev environment. I will edit it. 88889106
+com: 
+ ming: 
+   config: I am the git configuration file from dev environment. I will edit it. 88889106
