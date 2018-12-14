@@ -1,0 +1,5 @@
+           
+com: 
+ ming: 
+    config:
+            config: I am the git configuration file from spring-cloud-config.yml 
